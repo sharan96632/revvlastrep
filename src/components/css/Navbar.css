@@ -1,0 +1,15 @@
+.navbar {
+  background-color: lightblue;
+  height: 50px;
+}
+.nav-home {
+  text-decoration: none;
+  margin-right: 20%;
+  margin-left: 9%;
+}
+.nav-list {
+  text-decoration: none;
+  margin-right: 5%;
+  font-size: 160%;
+  color: black;
+}

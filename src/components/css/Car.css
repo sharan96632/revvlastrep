@@ -1,0 +1,27 @@
+.ca1 {
+  width: 70%;
+  height: 350px;
+  margin-left: 30%;
+  margin-top: 5%;
+  display: flex;
+}
+.ca2 {
+  width: 30%;
+  height: 350px;
+  margin-left: 3%;
+}
+.imgcar {
+  width: 55%;
+  margin-left: 5%;
+}
+.para {
+  display: flex;
+}
+p {
+  margin-left: 5%;
+}
+button {
+  width: 100px;
+  background-color: lightseagreen;
+  color: white;
+}
